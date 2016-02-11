@@ -53,6 +53,7 @@ public class SearchActivity extends AppCompatActivity {
             // disable
             button.setEnabled(false);
         }
+        //
     }
     @Override
     protected void onResume() {
